@@ -1,3 +1,3 @@
 <?php
 
-echo "<h1>RedHat visit - @ April 07, 2017";
+echo "<h1>RedHat visit - @ Aug 22nd, 2017";
