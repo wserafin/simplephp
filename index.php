@@ -1,4 +1,4 @@
 <?php
 
-echo "<h1>RedHat visit - Dec 06, 2017";
+echo "<h1>RedHat visit - JAN 16, 2018";
 
